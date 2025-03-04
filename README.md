@@ -1,2 +1,15 @@
 # LTTBDD
-![UI quản lí chi tiêu](https://github.com/user-attachments/assets/33acf680-6859-43f9-99a5-f1fec40d0be6)
+
+![logo](https://github.com/user-attachments/assets/2d3fa099-24b8-40ed-a7c7-d4978b1010a6)
+![Màn hình đăng ký](https://github.com/user-attachments/assets/515765b6-88f6-4459-bf8d-f1dce87145f9)
+![Màn hình đăng nhập](https://github.com/user-attachments/assets/7768d395-222e-4278-8118-d698544acfa7)
+![Home - Tiền chi](https://github.com/user-attachments/assets/100a5590-059f-4c05-90c6-b4360b8a726d)
+![Home - Tiền thu](https://github.com/user-attachments/assets/54b987c0-470a-4ce8-a4a3-5552cd9b4f99)
+![Lịch](https://github.com/user-attachments/assets/52689d09-2f8e-4b5e-a67b-e0880c280e0f)
+![Báo cáo](https://github.com/user-attachments/assets/b752ffed-c056-4372-a57f-dd3048e5d7bd)
+![Báo cáo-1](https://github.com/user-attachments/assets/28ceefe6-9fba-484d-8c7f-0208b3913522)
+![Báo cáo-2](https://github.com/user-attachments/assets/3bbfef6c-00b9-428f-8e25-27c72b465322)
+![Báo cáo-3](https://github.com/user-attachments/assets/7f75937d-3fe3-4776-b354-f45839981a26)
+![Tìm kiếm](https://github.com/user-attachments/assets/c8e562a5-14dd-4fb6-bb89-c75a3fe63809)
+![Menu](https://github.com/user-attachments/assets/092c89a2-acc7-4c82-abce-33f16f539544)
+![Menu-1](https://github.com/user-attachments/assets/1dca7c53-c003-4f3c-ae90-91325338a91c)
